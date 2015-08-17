@@ -314,12 +314,12 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
       background: #eee4da;
-      background: url('../unis/pku.png');
+      background: url('../unis/pku.jpg');
       background-size: contain; 
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
       background: #ede0c8;
-      background: url('../unis/thu.png');
+      background: url('../unis/thu.jpg');
       background-size: contain; 
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
@@ -727,3 +727,4 @@ hr {
     margin-top: 90px !important; }
   .game-message .lower {
     margin-top: 30px !important; } }
+
